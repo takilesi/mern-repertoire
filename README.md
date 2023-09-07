@@ -4,7 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+Split your terminal: 
+
+  On the right in the project directory, you can run:
+  
+### `nodemon server`
+
+  On the left in the project directory, you can run:
 
 ### `npm start`
 
