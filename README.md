@@ -1,12 +1,20 @@
+# Introduction
 
+This is a simple list of lists app. It is tailored to create a list of songs and notes related to each song. Both songs and notes can be added and deleted and have their own CRUD routes. Scroll right or left to view the entire list of songs you've entered. Click on the song, then enter a note or notes for the selected song. 
 
+![image](https://github.com/takilesi/mern-repertoire/assets/124453486/07686fb0-3ff1-4456-80d1-2d7715deddd3)
 
 ## Link to Repertoire List App 
 
 https://choir-repertoire.onrender.com
 
+## Important Folders / Files 
 
+![image](https://github.com/takilesi/mern-repertoire/assets/124453486/2d078b42-33df-4c59-b815-a4e1977248ed)
 
+## JSX files / component connections 
+
+![image](https://github.com/takilesi/mern-repertoire/assets/124453486/ff474399-36fd-45f9-84d3-7445c6ad4376)
 
 # Getting Started with Create React App
 
