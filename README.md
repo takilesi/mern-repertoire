@@ -1,6 +1,6 @@
 # Introduction
 
-This is a simple list of lists app. It is tailored to create a list of songs and notes related to each song. Both songs and notes can be added and deleted and have their own CRUD routes. Scroll right or left to view the entire list of songs you've entered. Click on the song, then enter a note or notes for the selected song. 
+This is a simple list of lists app. It is tailored to create a list of songs and notes related to each song. Both songs and notes can be added and deleted and have their own CRUD routes. Scroll right or left to view the entire list of songs you've entered. Click on the song, then enter a note or notes for the selected song. Checkbox can be used to cross items off the list. 
 
 ![image](https://github.com/takilesi/mern-repertoire/assets/124453486/07686fb0-3ff1-4456-80d1-2d7715deddd3)
 
