@@ -2,9 +2,11 @@
 
 This is a simple list of lists app. It is tailored to create a list of songs and notes related to each song. Both songs and notes can be added and deleted and have their own CRUD routes. Scroll right or left to view the entire list of songs you've entered. Click on the song, then enter a note or notes for the selected song. Checkbox can be used to cross items off the list. 
 
+## The Screen Shot...
+
 ![image](https://github.com/takilesi/mern-repertoire/assets/124453486/07686fb0-3ff1-4456-80d1-2d7715deddd3)
 
-## Link to Repertoire List App 
+## Link to Repertoire List App (render.com)
 
 https://choir-repertoire.onrender.com
 
@@ -12,6 +14,8 @@ https://choir-repertoire.onrender.com
 
 [https://git@github.com:takilesi/song-list.git ](https://github.com/takilesi/song-list)  
 (fully functioning with 2 complete CRUD routes (no account login))
+And... The render.com version
+https://song-list-pef8.onrender.com
 ![image](https://github.com/takilesi/mern-repertoire/assets/124453486/d4947dc8-e88b-4dc5-a6f2-0cee46cad2d0)
 
 [https://git@github.com:takilesi/mern-infrastructure.git](https://github.com/takilesi/mern-infrastructure)
@@ -24,6 +28,18 @@ https://choir-repertoire.onrender.com
 ## JSX files / component connections 
 
 ![image](https://github.com/takilesi/mern-repertoire/assets/124453486/ff474399-36fd-45f9-84d3-7445c6ad4376)
+
+
+# Technologies used: 
+
+MongoDB
+Express
+React
+Node 
+
+Additionally: 
+Render.com
+Draw.io
 
 # Getting Started with Create React App
 
