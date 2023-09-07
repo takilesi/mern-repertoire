@@ -10,7 +10,7 @@ https://choir-repertoire.onrender.com
 
 ## Additional Repos / Project development of the Repertoire App 
 
-https://git@github.com:takilesi/song-list.git   
+[https://git@github.com:takilesi/song-list.git ](https://github.com/takilesi/song-list)  
 (fully functioning with 2 complete CRUD routes (no account login))
 ![image](https://github.com/takilesi/mern-repertoire/assets/124453486/d4947dc8-e88b-4dc5-a6f2-0cee46cad2d0)
 
